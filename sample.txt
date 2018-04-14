@@ -1,2 +1,2 @@
 hello git world
-second method
+second method  
