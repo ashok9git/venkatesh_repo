@@ -1,2 +1,9 @@
 changes done from branch2
 will check this option in another branch
+The Jenkins project produces two release lines
+Download Jenkins war File – This war is required to 
+install Jenkins. Deploy Jenkins war File – Jenkins war 
+file needs to be deployed using Tomcat to run Jenkins. 
+Install Suggested Plugins – Install a list of plugins
+ suggested by Jenkins. Note: These steps are for the 
+CentOS operating system. In case you do ...
